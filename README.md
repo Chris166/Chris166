@@ -22,13 +22,6 @@
 <br />
 <br />
 
----
-### Connect with me:
-
-[<img align="left" alt="Chris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Chris21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chris21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
