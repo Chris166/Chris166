@@ -15,6 +15,9 @@
 [<img align="left" alt="Chris21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chris21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+<br/>
+
 ## Github Stats:
 
 <img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true" />
