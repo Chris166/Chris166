@@ -23,13 +23,13 @@
 [<img align="left" alt="Chris21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <a href="https://github.com/Chris166">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Chris166">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris166&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/Chris166/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chris166&repo=FlutterExampleApps&theme=light" />
 
 </a>
 <a href="https://github.com/Chris166/VelocityX">
