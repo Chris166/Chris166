@@ -34,12 +34,12 @@
 
 </details>
 
-<details>
+---
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true" />
 
-</details>
 
 [twitter]: https://twitter.com/21lChrisl12
 [youtube]: https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber
