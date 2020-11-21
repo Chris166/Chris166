@@ -9,10 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Chris21.vercel.app/api/spotify-playing" alt="Chris21 Spotify Playing" width="350" />](https://open.spotify.com/user/31vjypoz7yv6we5qrqfxagngnf3y)
-
 ### Connect with me:
 
 [<img align="left" alt="Chris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,14 +26,6 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber)
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
