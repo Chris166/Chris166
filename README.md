@@ -22,8 +22,20 @@
 [<img align="left" alt="Chris21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chris21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
+<a href="https://github.com/Chris166">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Chris166">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/Chris166/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
+</a>
+<a href="https://github.com/Chris166/VelocityX">
+ <img
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
 
 [twitter]: https://twitter.com/21lChrisl12
 [youtube]: https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber
