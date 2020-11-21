@@ -23,7 +23,7 @@
 <img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true" />
 
 <br/>
-<br/>
+
 
 ### Most used languages:
 
@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=light&hide_langs_below=1" />
 </a>
 
-<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
 
