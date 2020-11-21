@@ -26,13 +26,12 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber)
 
-<details>
+---
+
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-</details>
 
 ---
 
