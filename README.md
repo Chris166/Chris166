@@ -25,15 +25,6 @@
 <a href="https://github.com/Chris166">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Chris166">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chris166&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-<a href="https://github.com/Chris166/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chris166&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/Chris166/VelocityX">
- <img
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
 
