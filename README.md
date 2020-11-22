@@ -21,7 +21,7 @@
 ## Github Stats:
 
 <a href="https://github.com/Chris166">
-<img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true&theme=merko" />
 </a>
 
 <br/>
