@@ -30,7 +30,7 @@
 ### Most used languages:
 
 <a href="https://github.com/Chris166">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <br/>
