@@ -20,7 +20,9 @@
 
 ## Github Stats:
 
-<img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true" />
+<a href="https://github.com/Chris166">
+<img align="left" alt="Chris21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chris166&show_icons=true&hide_border=true&theme=radical" />
+</a>
 
 <br/>
 <br/>
@@ -28,12 +30,10 @@
 ### Most used languages:
 
 <a href="https://github.com/Chris166">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris166&theme=dark&hide_langs_below=1" />
 </a>
 
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chris166&label=Views&color=blue&style=plastic" alt="chris21" /> </p>
 
 [twitter]: https://twitter.com/21lChrisl12
 [youtube]: https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber
