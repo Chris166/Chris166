@@ -39,7 +39,7 @@
 ### Week stats
 
 <a href="https://github.com/Chris166">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris21&theme=tokyonigh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris21&theme=tokyonight" />
 </a>
 
 [twitter]: https://twitter.com/21lChrisl12
