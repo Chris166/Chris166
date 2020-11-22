@@ -34,6 +34,12 @@
 </a>
 
 <br/>
+<br/>
+
+### Week stats
+<a href="https://github.com/Chris166">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chris166" />
+</a>
 
 [twitter]: https://twitter.com/21lChrisl12
 [youtube]: https://www.youtube.com/channel/UC1BqxiuZ2giJKhLeKgcEjMA?view_as=subscriber
