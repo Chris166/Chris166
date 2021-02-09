@@ -4,10 +4,9 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to find friends with same interest
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw
+- 🌱 I’m currently learning C++ 
+- 👯 I’m looking to find friends with same interest.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
