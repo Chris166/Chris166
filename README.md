@@ -4,7 +4,7 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to find friends with same interest.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
