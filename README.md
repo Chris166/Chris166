@@ -1,22 +1,3 @@
-### Hi there, I'm Chris 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Chris21?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F21lChrisl12&screen_name=21lChrisl12)
-
-## I'm a Developer
-
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to find friends with same interest.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="Chris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Chris21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chris21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-<br/>
-
 ## Github Stats:
 
 <a href="https://github.com/Chris166">
