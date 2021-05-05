@@ -2,9 +2,9 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" alt="party blob" />
 
-Hi, my name is Chris! I am from bulgaria and I get into programming since 2018.
+Hi, my name is Chris! I am from Bulgaria and I get into programming since 2018.
 
-If you have any spare time, please take a look at my Github projects. Appreciate it!  <img alt="GIF" src="http://r/gifs/comments/9ee31i/wiggle_wiggle_p/" align="right" width="325" height="310"/>
+If you have any spare time, please take a look at my Github projects. Appreciate it!  <img alt="GIF" src="https://media3.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif?cid=ecf05e473v9jwe4gs3t6l3dognouctooree7yvxnrm40ieow&rid=giphy.gif&ct=g" align="right" width="325" height="310"/>
 
 ### 💻 Technologies
 
