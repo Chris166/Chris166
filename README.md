@@ -2,7 +2,7 @@
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" alt="party blob" />
 
-Hi, my name is Chris! I am from Bulgaria and I get into programming since 2018.
+Hi, my name is Chris! I am from bulgaria and I get into programming since 2018.
 
 If you have any spare time, please take a look at my Github projects. Appreciate it!  <img alt="GIF" src="https://media3.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif?cid=ecf05e473v9jwe4gs3t6l3dognouctooree7yvxnrm40ieow&rid=giphy.gif&ct=g" align="right" width="325" height="310"/>
 
@@ -13,7 +13,7 @@ If you have any spare time, please take a look at my Github projects. Appreciate
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Connect With Me: <a href="https://discordapp.com/users/448500121605505035/">Discord</a> 
+### Connect With Me: <a href="https://discordapp.com/users/766634999851778058/">Discord</a> 
 
 ### ⚙️ &nbsp;Analytics
 
