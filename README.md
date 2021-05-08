@@ -9,8 +9,7 @@ If you have any spare time, please take a look at my Github projects. Appreciate
 ### 💻 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=C%20sharp&logoColor=FFA518)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### Connect With Me: <a href="https://discordapp.com/users/766634999851778058/">Discord</a> 
